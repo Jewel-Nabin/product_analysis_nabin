@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap';
 import './Card2.css';
 
 const Card2 = (props) => {
-    const { name, says } = props.product;
+    const { name, says, ratings } = props.product;
     return (
         <Card>
             <Card.Body>
@@ -13,7 +13,7 @@ const Card2 = (props) => {
                 <Card.Title>{name}</Card.Title>
             </Card.Body>
             <Card.Footer>
-                <small className="text-muted">Last updated 3 mins ago</small>
+                Ratings: {ratings}
             </Card.Footer>
         </Card>
     );
