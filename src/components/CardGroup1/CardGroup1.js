@@ -5,7 +5,7 @@ import './CardGroup1.css';
 
 const CardGroup1 = () => {
     const products = [
-        { name: '-KATE JONSON', says: "I believe it's the organic foods and quality of the natural ingredients that help me feel this great." },
+        { name: '-KATE JONSON', says: "I believe it's the organic foods and quality of the natural ingredients that help me feel this great.", },
         { name: '-ANUSHA SHETTY', says: "I recently bought VEGANIC'S RASAM POWDER. All the spices in the powder were perfectly blend. After adding it, my rasam instantly had a tangy and delicious taste." },
         { name: '-ALLAN FERNANDES', says: "I have been regular customer of VEGANIC. The masala tea from VEGANIC is one of my favorite products. I start my day with the masala tea as it energizes me and prepares me for my busy day."},
     ];
