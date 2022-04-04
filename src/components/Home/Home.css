@@ -1,0 +1,18 @@
+.header-container {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin-top: 100px;
+}
+
+.title-container {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.moral-title {
+    margin-left: -180px;
+}
+
+.title {
+    margin-left: -350px;
+}

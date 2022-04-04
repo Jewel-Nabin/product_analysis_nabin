@@ -11,9 +11,8 @@ import NotFound from './components/NotFound/NotFound';
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to my VEGANIC</h1>
+      <Header></Header>
       <Routes>
-        <Route path='/header' element={<Header></Header>}></Route>
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/reviews' element={<Reviews></Reviews>}></Route>
