@@ -1,6 +1,6 @@
-Site-Name: veganic-product-review-nabin
-UI Site-Name: VEGANIC
-Site-Link: Open[https://veganic-product-review-nabin.netlify.app/]
+* Site-Name: veganic-product-review-nabin
+* UI Site-Name: VEGANIC
+* Site-Link: Open[https://veganic-product-review-nabin.netlify.app/]
 
 # My Project Features
 In my project, have 6 active route.
