@@ -1,3 +1,37 @@
+# My Project Features
+In my project, have 5 active route.
+Those are: 
+* HOME
+* REVIEWS
+* DASHBOARD
+* BLOGS and
+* ABOUT
+
+* Hom Route
+In HOME Route you will appear, product image and the descripton about product's. And there are also you will see three of customers reviews, furthur there have a button under the customer review which will take you to the REVIEWS Route, if you click on that button.
+
+* REVIEWS Route
+In REVIEW Route you will see Six customer reviews. They describe their intention through those reviews. Seeing Those reviews, I think you wish to buy one or more than one of product of mine.
+
+* DASHBOARD Route
+-In DASHBOARD Route have two recharts which will be able to think about of my product.
+-One recharts is about of my month wise selling diagram. And another One appear in about investment vs revenue of my project.
+
+* BLOGS Route
+In Blog section I have written two rare question.
+They are:
+1. What is Context API?
+2. What is sementic tag ?
+
+* ABOUT Route
+This Route is empty for now. In future will be added some features in this Routr. Till then keep connected us.
+
+* NotFound Route
+There are anothe Section which is NotFound Route. This Route will take you unknown path.
+
+THANK YOU!!!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -9,7 +43,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://aquamarine-horse-de4f91.netlify.app/](https://aquamarine-horse-de4f91.netlify.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
