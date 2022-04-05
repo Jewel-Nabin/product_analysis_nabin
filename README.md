@@ -1,13 +1,18 @@
+Site-Name: veganic-product-review-nabin
+UI Site-Name: VEGANIC
+Site-Link: Open[https://veganic-product-review-nabin.netlify.app/]
+
 # My Project Features
-In my project, have 5 active route.
+In my project, have 6 active route.
 Those are: 
 * HOME
 * REVIEWS
 * DASHBOARD
 * BLOGS and
 * ABOUT
+* NotFount
 
-* Hom Route
+* Home Route
 In HOME Route you will appear, product image and the descripton about product's. And there are also you will see three of customers reviews, furthur there have a button under the customer review which will take you to the REVIEWS Route, if you click on that button.
 
 * REVIEWS Route
@@ -43,7 +48,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [https://aquamarine-horse-de4f91.netlify.app/](https://aquamarine-horse-de4f91.netlify.app/) to view it in your browser.
+Open [https://veganic-product-review-nabin.netlify.app/](https://veganic-product-review-nabin.netlify.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
